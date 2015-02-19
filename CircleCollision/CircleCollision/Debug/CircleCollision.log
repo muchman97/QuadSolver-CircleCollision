@@ -1,0 +1,28 @@
+﻿Build started 2/9/2015 9:53:54 AM.
+     1>Project "\\tt\student$\Digipen\tt.clint.mucha\my documents\visual studio 2010\Projects\CircleCollision\CircleCollision\CircleCollision.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\CircleCollision.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Collision Course.cpp"
+         Collision Course.cpp
+     1>\\tt\student$\digipen\tt.clint.mucha\my documents\visual studio 2010\projects\circlecollision\circlecollision\collision course.cpp(41): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+     1>\\tt\student$\digipen\tt.clint.mucha\my documents\visual studio 2010\projects\circlecollision\circlecollision\collision course.cpp(42): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"\\tt\student$\digipen\tt.clint.mucha\my documents\visual studio 2010\Projects\CircleCollision\Debug\CircleCollision.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\CircleCollision.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"\\tt\student$\digipen\tt.clint.mucha\my documents\visual studio 2010\Projects\CircleCollision\Debug\CircleCollision.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"\\tt\student$\digipen\tt.clint.mucha\my documents\visual studio 2010\Projects\CircleCollision\Debug\CircleCollision.lib" /MACHINE:X86 Debug\CircleCollision.exe.embed.manifest.res
+         "Debug\Collision Course.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\CircleCollision.exe.embed.manifest" /manifest Debug\CircleCollision.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         CircleCollision.vcxproj -> \\tt\student$\digipen\tt.clint.mucha\my documents\visual studio 2010\Projects\CircleCollision\Debug\CircleCollision.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CircleCollision.unsuccessfulbuild".
+         Touching "Debug\CircleCollision.lastbuildstate".
+     1>Done Building Project "\\tt\student$\Digipen\tt.clint.mucha\my documents\visual studio 2010\Projects\CircleCollision\CircleCollision\CircleCollision.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
